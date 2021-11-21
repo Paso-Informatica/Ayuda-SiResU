@@ -66,11 +66,7 @@ theme:
 
 plugins:
   - search
-  - social
   - git-revision-date-localized
-  - redirects:
-      redirect_maps:
-        support/adm/getting-started.md: guides/monetization.md
 
 markdown_extensions:
   - codehilite
