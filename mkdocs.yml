@@ -66,7 +66,12 @@ theme:
 
 plugins:
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Europe/Madrid
+      locale: es
+      fallback_to_build_date: true
+      enable_creation_date: true
 
 markdown_extensions:
   - codehilite
