@@ -3,6 +3,7 @@ site_name: Ayuda Paso Informática
 site_description: Guía de Ayuda para las Reservas del Paso Informática USC
 site_author: Paso Informática
 site_url: https://ayuda.pasoinfo.xyz/
+docs_dir: ayuda
 
 # Dev
 dev_addr: '127.0.0.1:8008'
