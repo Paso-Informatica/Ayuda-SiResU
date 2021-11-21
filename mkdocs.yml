@@ -94,9 +94,7 @@ markdown_extensions:
 
 # Site navigation in the side bar
 nav:
-  - SiResU:
-    - Inicio: index.md
   - Reservas:
-    - Inicio: reservas/index.md
+    - Inicio: index.md
   - Administración:
     - Inicio: admin/index.md
