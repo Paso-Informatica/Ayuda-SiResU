@@ -29,8 +29,8 @@ superadmins. Pero sí que pueden asignar otros admins con permisos normales, y r
 ## Permisos
 
 !!! example "Leyenda"
-    - [x] _Tiene acceso todos los miembros el Departamento_
-    - [ ] _Sólo tiene acceso el Coordinador del Departamento_
+    - [x] _Todos los miembros el Departamento tienen el permiso_
+    - [ ] _Sólo el Coordinador del Departamento tiene el permiso_
 
 ### Eventos
 
