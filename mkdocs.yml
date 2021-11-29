@@ -74,11 +74,13 @@ plugins:
 
 markdown_extensions:
   - codehilite
+  - def_list
   # Markdown extensions: https://python-markdown.github.io/extensions/
   - admonition
   - toc:
       permalink: true
   - attr_list
+  - md_in_html
   # PyMdown Extensions
   - pymdownx.caret
   - pymdownx.critic
