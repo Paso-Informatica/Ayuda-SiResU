@@ -102,3 +102,4 @@ nav:
     - Inicio: index.md
   - Administración:
     - Inicio: admin/index.md
+    - Permisos: admin/permisos.md
