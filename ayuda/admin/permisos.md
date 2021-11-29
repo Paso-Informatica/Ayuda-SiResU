@@ -30,11 +30,27 @@ superadmins. Pero sí que pueden asignar otros admins con permisos normales, y r
 
 ### Eventos
 
-- [x] _**Departamento de Eventos Deportivos** (sólo Coordinador)_
-- [x] _**Departamento de Fiestas** (sólo Coordinador)_
-- [x] _**Departamento de Reservas** (sólo Coordinador)_
+- [ ] Departamento de Eventos Deportivos
+- [ ] Departamento de Fiestas
+- [ ] Departamento de Reservas
 
 ### Reservas
 
-- [x] **Departamento de Reservas**
-- [x] _**Departamento de Ventas** (sólo Coordinador)_
+- [x] Departamento de Reservas
+- [ ] Departamento de Ventas
+
+### Ventas
+
+- [x] Departamento de Ventas
+- [x] Departamento de Tesorería
+- [ ] Departamento de Reservas
+
+### Mesa
+
+- [x] **Departamento de Redes Sociales**
+- [ ] **Departamento de Reservas**
+- [ ] **Departamento de Ventas**
+
+### Usuarios
+
+- [x] _Nadie_
