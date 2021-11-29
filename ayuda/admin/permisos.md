@@ -28,6 +28,10 @@ superadmins. Pero sí que pueden asignar otros admins con permisos normales, y r
 
 ## Permisos
 
+!!! example "Leyenda"
+    - [x] _Tiene acceso todos los miembros el Departamento_
+    - [ ] _Sólo tiene acceso el Coordinador del Departamento_
+
 ### Eventos
 
 - [ ] Departamento de Eventos Deportivos
@@ -47,9 +51,9 @@ superadmins. Pero sí que pueden asignar otros admins con permisos normales, y r
 
 ### Mesa
 
-- [x] **Departamento de Redes Sociales**
-- [ ] **Departamento de Reservas**
-- [ ] **Departamento de Ventas**
+- [x] Departamento de Redes Sociales
+- [ ] Departamento de Reservas
+- [ ] Departamento de Ventas
 
 ### Usuarios
 
