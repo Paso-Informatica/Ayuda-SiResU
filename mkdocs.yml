@@ -101,8 +101,8 @@ markdown_extensions:
 # Site navigation in the side bar
 nav:
   - Reservas:
-    - Inicio: index.md
+    - index.md
     - Proceso de Reserva: proceso.md
   - Administración:
-    - Inicio: admin/index.md
+    - admin/index.md
     - Permisos: admin/permisos.md
