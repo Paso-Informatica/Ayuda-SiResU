@@ -1,6 +1,6 @@
 # Gestión de Superadmins
 
-La gestión de super-admins es manual. Sólo el administrador de la base de datos puede hacerlo, ya que requiere tener
+**La gestión de super-admins es manual.** Sólo el administrador de la base de datos puede hacerlo, ya que requiere tener
 acceso directo a la propia base de datos. Esto se hace así para garantizar la seguridad e integridad, ya que puede ser
 un permiso peligroso, y para evitar posibles elevaciones de permisos que no cumplan la jerarquía establecida.
 
