@@ -11,7 +11,7 @@ el deslizador del permiso correspondiente.
 En caso de ser un nuevo administrador, habrá que clicar en `Añadir Admin` e introducir su DNI para buscarlo y añadirlo:
 
 <figure markdown>
-  ![superadmin.png](../assets/img/admin/superadmin/asignacion1.png)
+  ![superadmin.png](../../assets/img/admin/superadmin/asignacion1.png)
   <figcaption>Buscar Usuarios</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ A continuación aparecerá en la tabla y ya se le podrá dar el permiso deseado.
 Para quitarle un permiso a un administrador, basta con desactivar el deslizador del permiso correspondiente:
 
 <figure markdown>
-  ![superadmin.png](../assets/img/admin/superadmin/asignacion2.png)
+  ![superadmin.png](../../assets/img/admin/superadmin/asignacion2.png)
   <figcaption>Buscar Usuarios</figcaption>
 </figure>
 
