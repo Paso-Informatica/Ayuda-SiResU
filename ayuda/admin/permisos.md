@@ -23,10 +23,10 @@ está alojada en [/admin](https://reservas.pasoinfo.xyz/admin/).
 Este es un permiso especial que no se puede otorgar desde la propia interfaz web. No tiene
 ninguna referencia visual, pero permite a los que lo posean **gestionar el resto de permisos**.
 
-[Gestión de Permisos](https://reservas.pasoinfo.xyz/admin/permisos/){ .md-button .md-button--primary }
+[Gestión de Permisos](https://reservas.pasoinfo.xyz/admin/superadmin/){ .md-button .md-button--primary }
 
 <figure markdown>
-  ![superadmin.png](../assets/img/admin/permisos/superadmin.png)
+  ![superadmin.png](../assets/img/admin/superadmin/permisos.png)
   <figcaption>Gestión de Permisos</figcaption>
 </figure>
 
