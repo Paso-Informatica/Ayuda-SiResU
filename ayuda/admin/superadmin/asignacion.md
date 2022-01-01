@@ -12,7 +12,7 @@ En caso de ser un nuevo administrador, habrá que clicar en `Añadir Admin` e in
 
 <figure markdown>
   ![superadmin.png](../../assets/img/admin/superadmin/asignacion1.png)
-  <figcaption>Buscar Usuarios</figcaption>
+  <figcaption>Asignar Permiso</figcaption>
 </figure>
 
 A continuación aparecerá en la tabla y ya se le podrá dar el permiso deseado.
@@ -23,7 +23,7 @@ Para quitarle un permiso a un administrador, basta con desactivar el deslizador 
 
 <figure markdown>
   ![superadmin.png](../../assets/img/admin/superadmin/asignacion2.png)
-  <figcaption>Buscar Usuarios</figcaption>
+  <figcaption>Eliminar Permiso</figcaption>
 </figure>
 
 Por lo general, un administrador sin permisos desaparecerá de la tabla. Si tras quitar el último permiso no desaparece
