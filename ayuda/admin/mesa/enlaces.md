@@ -29,6 +29,7 @@ Los elementos que se muestran son:
 
 Para **crear un nuevo enlace**, basta con hacer clic en el botón **`Nuevo Enlace`**, y se creará automáticamente un
 enlace con las siguientes características:
+
 - **Nombre**: _Enlace_
 - **Enlace**: _https://reservas.pasoinfo.xyz_
 - **Imagen**: Ninguna

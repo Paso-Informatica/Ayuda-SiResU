@@ -32,6 +32,7 @@ Los elementos que se muestran son:
 
 Para **crear una nueva Mesa**, basta con hacer clic en el botón **`Nueva Mesa`**, y se creará automáticamente una Mesa con
 las siguientes características:
+
 - **Fecha de apertura**: ahora mismo
 - **Fecha de cierre**: 4 horas adelante
 - **Localización**: _Cafetería SOLPOR - ETSE_
