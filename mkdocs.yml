@@ -105,7 +105,7 @@ nav:
     - Proceso de Reserva: proceso.md
   - Administración:
     - admin/index.md
-    - Permisos: admin/superadmin.md
+    - Permisos: admin/permisos.md
     - Superadmin:
       - admin/superadmin/index.md
       - Asignación de Permisos: admin/superadmin/asignacion.md
