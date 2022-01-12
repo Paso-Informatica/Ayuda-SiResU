@@ -69,5 +69,10 @@ Para editar la visibilidad basta con clicar en el botón correspondiente (en **a
 !!! question "¿Se puede desactivar el borrado automático de las mesas?"
     No, por ahora no es posible.
 
-!!! question "¿Se pueden mostrar mesas que ya hayan cerrado?"
+!!! question "¿Se pueden mostrar Mesas que ya hayan cerrado?"
     Se mostraran mesas ya cerradas con una tolerancia de 1 hora, siempre y cuando estén marcadas como visible.
+
+!!! question "¿Cómo puedo cambiar el orden de las Mesas?"
+    El orden en el que se muestran las Mesas en la pantalla de inicio ya está predefinido. Se muestran ordenadas por
+    la fecha de apertura, de la más próxima a la más lejana. Es independiente del orden en el que se muestren en el
+    panel de administración.

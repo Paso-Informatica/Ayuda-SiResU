@@ -54,3 +54,7 @@ Para editar la visibilidad basta con clicar en el botón correspondiente (en **a
 
 !!! question "¿Se puede usar cualquier imagen?"
     Sí, con tal de que sea accesible publicamente y con una extensión compatible con la web.
+
+!!! question "¿Cómo puedo cambiar el orden de los enlaces?"
+    Para cambiar el orden de los enlaces, la solución por ahora es volver a crearlos en el orden que se quiera y
+    eliminar los antiguos.
