@@ -2,7 +2,7 @@
 
 Bienvenido a la Administración del Sistema de Reservas Unificado.
 
-!!! warning
+!!! warning "Sólo para admins"
     Esta sección de la página de ayuda está pensanda para administradores (departamento de
     reservas, de ventas, de eventos, etc.).  
     Si lo que estás buscando es la ayuda para Reservas, ve [aquí](../index.md).
