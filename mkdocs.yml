@@ -67,7 +67,7 @@ theme:
 plugins:
   - search
   - git-revision-date-localized:
-      type: datetime
+      type: date
       timezone: Europe/Madrid
       locale: es
       fallback_to_build_date: true
@@ -94,9 +94,10 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:
-     custom_checkbox: true
+      custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # Site navigation in the side bar
 nav:
