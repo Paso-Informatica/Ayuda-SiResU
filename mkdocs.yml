@@ -24,10 +24,13 @@ extra:
       name: Reservas Paso Informática
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/pasoinformatica.2122
-      name: Síguenos en Instagram
+      name: Dános like en Instagram!
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/pasoinformatica
       name: Síguenos en Twitter!
+    - icon: fontawesome/brands/twitter
+      link: https://tiktok.com/@pasoinformatica21
+      name: También en TikTok!
   # disqus: "kodular-docs"
   generator: false
 
