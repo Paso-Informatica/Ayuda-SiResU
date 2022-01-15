@@ -34,6 +34,7 @@ extra:
 # Material theme for MkDocs : https://github.com/squidfunk/mkdocs-material/
 theme:
   name: 'material'
+  language: es
   features:
     - content.tabs.link
     - navigation.instant
