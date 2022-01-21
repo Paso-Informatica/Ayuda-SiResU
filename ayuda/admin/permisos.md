@@ -94,7 +94,6 @@ ventas sin reserva (mostrando un aviso si se va a sobrepasar el límite de entra
 ### Mesa
 
 - [x] Departamento de Redes Sociales
-- [ ] Departamento de Reservas
 - [ ] Departamento de Ventas
 
 [Gestión de Mesa](https://reservas.pasoinfo.xyz/admin/mesa/){ .md-button .md-button--primary }
