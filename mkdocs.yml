@@ -128,3 +128,4 @@ nav:
   - Soporte:
       - soporte/index.md
       - Política de Privacidad: soporte/privacidad.md
+      - Estado: soporte/estado.md
