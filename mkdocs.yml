@@ -40,7 +40,6 @@ theme:
   language: es
   features:
     - content.tabs.link
-    - navigation.instant
     - navigation.indexes
     - navigation.tabs
     - navigation.tracking
