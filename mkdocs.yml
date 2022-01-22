@@ -126,3 +126,6 @@ nav:
       - admin/mesa/index.md
       - Gestión de Enlaces: admin/mesa/enlaces.md
       - Publicación de Mesas: admin/mesa/mesas.md
+  - Soporte:
+      - soporte/index.md
+      - Política de Privacidad: soporte/privacidad.md
