@@ -18,12 +18,13 @@ En la página de gestión de enlaces se verá algo tal que así:
 
 Los elementos que se muestran son:
 
-1. Nombre del enlace
-2. Enlace en cuestión
-3. Imagen (opcional) del enlace
-4. Cambiar de visible a oculto, y viceversa
-5. Eliminar enlace
-6. Crear nuevo enlace
+1. Reordenar el enlace
+2. Nombre del enlace
+3. Enlace en cuestión
+4. Imagen (opcional) del enlace
+5. Cambiar de visible a oculto, y viceversa
+6. Eliminar enlace
+7. Crear nuevo enlace
 
 ## Crear un nuevo enlace
 
@@ -49,12 +50,9 @@ convertirá en editable. Hay que tener en cuenta un detalles a la hora de editar
 editarlo hay que pulsar <kbd>Enter</kbd> para aplicar los cambios. 
 
 Para editar la visibilidad basta con clicar en el botón correspondiente (en **azul oscuro indica que está visible**).
+También se puede cambiar el orden de los enlaces haciendo clic en los botones respectivos.
 
 ## F.A.Q.
 
 !!! question "¿Se puede usar cualquier imagen?"
     Sí, con tal de que sea accesible publicamente y con una extensión compatible con la web.
-
-!!! question "¿Cómo puedo cambiar el orden de los enlaces?"
-    Para cambiar el orden de los enlaces, la solución por ahora es volver a crearlos en el orden que se quiera y
-    eliminar los antiguos.
